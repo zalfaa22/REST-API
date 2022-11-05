@@ -31,7 +31,7 @@
 ![3_4_hexa](https://user-images.githubusercontent.com/101534228/200117234-4d9477a1-4278-4c7a-949d-431d2dbae6d2.jpg)
 
 **- - - Praktikum 4 (BMI) - - -**
-
+- BMI
 ![4_bmi](https://user-images.githubusercontent.com/101534228/200117254-a83bdd97-8b78-4c62-adb3-34d07c968d93.jpg)
 
 **- - - Praktikum 5 (Ganjil Genap) - - -**
